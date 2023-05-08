@@ -22,7 +22,6 @@
    <img align="center" alt="" height="30" width="40" src="https://camo.githubusercontent.com/26a528f097ecb4f4b3987ad74cd3086870e930d85124c2a352dbde9e3cd14cb7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6578746a732f6e6578746a732d6f726967696e616c2e737667">
  <img align="center" alt="" height="30" width="40" src="https://camo.githubusercontent.com/43f9c085821a7258745ceed4ecbcc68c3ffd996049c9d0a2a77c74dd1f5dc80b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f666c75747465722f666c75747465722d6f726967696e616c2e737667">
   </div>
-##
 <div>
 <!--CONTATOS -->
   <a href="https://www.linkedin.com/in/thyagohenrique2021/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
